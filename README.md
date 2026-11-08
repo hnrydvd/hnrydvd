@@ -6,7 +6,7 @@ infrastructure.
 
 ### What I work on
 
-- **Docs that match reality.** I fix outdated commands and flags, broken examples, missing
+- **Documentation** I fix outdated commands and flags, broken examples, missing
   steps and stale links, and check each change against the project's source or `--help` output.
 - **Bug fixes and accepted enhancements.** I work on open issues the maintainers have already
   agreed on, keep the diff small, and add tests.
