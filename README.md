@@ -1,24 +1,24 @@
-## Hi, I'm hd 👋
+## hi, i'm hd 👋
 
-I contribute to **cloud native open source**, mostly [CNCF](https://www.cncf.io/) projects
-in the **SRE / DevOps** space: the tools that deploy, run, observe and recover production
+i contribute to **cloud native open source**, mostly [cncf](https://www.cncf.io/) projects
+in the **sre / devops** space: the tools that deploy, run, observe and recover production
 infrastructure.
 
-### What I work on
+### what i work on
 
-- **Documentation** I fix outdated commands and flags, broken examples, missing
+- **documentation** i fix outdated commands and flags, broken examples, missing
   steps and stale links, and check each change against the project's source or `--help` output.
-- **Bug fixes and accepted enhancements.** I work on open issues the maintainers have already
+- **bug fixes and accepted enhancements.** i work on open issues the maintainers have already
   agreed on, keep the diff small, and add tests.
 
-### Projects I've contributed to
+### projects i've contributed to
 
 - **Kubernetes & multi-cluster:** Karmada · k3s · llm-d
-- **GitOps, delivery & automation:** Flux · Helm · Ansible
-- **Observability:** Prometheus · Grafana
-- **Identity & feature flags:** Keycloak · OpenFeature
+- **gitops, delivery & automation:** Flux · Helm · Ansible
+- **observability:** Prometheus · Grafana
+- **identity & feature flags:** Keycloak · OpenFeature
 
-### How I work
+### how i work
 
-I read each project's contributing guide first, follow its rules (DCO, changelogs, AI-use
-policy), and send one focused fix per PR.
+i read each project's contributing guide first, follow its rules (dco, changelogs, ai-use
+policy), and send one focused fix per pr.
