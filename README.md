@@ -20,5 +20,4 @@ infrastructure.
 
 ### how i work
 
-i read each project's contributing guide first, follow its rules (dco, changelogs, ai-use
-policy), and send one focused fix per pr.
+i read each project's contributing guide first, follow its rules (dco, changelogs, contributor policy), and try to send one focused fix per pr.
